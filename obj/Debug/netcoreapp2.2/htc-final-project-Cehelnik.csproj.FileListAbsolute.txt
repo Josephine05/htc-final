@@ -1,0 +1,11 @@
+c:\Users\User\Desktop\htc-final-project-Cehelnik\bin\Debug\netcoreapp2.2\htc-final-project-Cehelnik.deps.json
+c:\Users\User\Desktop\htc-final-project-Cehelnik\bin\Debug\netcoreapp2.2\htc-final-project-Cehelnik.runtimeconfig.json
+c:\Users\User\Desktop\htc-final-project-Cehelnik\bin\Debug\netcoreapp2.2\htc-final-project-Cehelnik.runtimeconfig.dev.json
+c:\Users\User\Desktop\htc-final-project-Cehelnik\bin\Debug\netcoreapp2.2\htc-final-project-Cehelnik.dll
+c:\Users\User\Desktop\htc-final-project-Cehelnik\bin\Debug\netcoreapp2.2\htc-final-project-Cehelnik.pdb
+c:\Users\User\Desktop\htc-final-project-Cehelnik\obj\Debug\netcoreapp2.2\htc-final-project-Cehelnik.csprojAssemblyReference.cache
+c:\Users\User\Desktop\htc-final-project-Cehelnik\obj\Debug\netcoreapp2.2\htc-final-project-Cehelnik.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\htc-final-project-Cehelnik\obj\Debug\netcoreapp2.2\htc-final-project-Cehelnik.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\htc-final-project-Cehelnik\obj\Debug\netcoreapp2.2\htc-final-project-Cehelnik.AssemblyInfo.cs
+c:\Users\User\Desktop\htc-final-project-Cehelnik\obj\Debug\netcoreapp2.2\htc-final-project-Cehelnik.dll
+c:\Users\User\Desktop\htc-final-project-Cehelnik\obj\Debug\netcoreapp2.2\htc-final-project-Cehelnik.pdb
